@@ -1,0 +1,157 @@
+//Mark Johnston
+// *link
+
+[
+{
+    "NAM": "Naga",
+    "GNAM": "Naga",
+    "COST": "49.99",
+    "MSRP": "39.99",
+    "QOH": "19",
+    "QOBO": "9",
+    "DES": "",
+    "BRAND": "Razer"
+  },
+  {
+    "NAM": "Viper",
+    "GNAM": "Viper",
+    "COST": "59.99",
+    "MSRP": "44.99",
+    "QOH": "42",
+    "QOBO": "22",
+    "DES": "",
+    "BRAND": "Razer"
+  },
+  {
+    "NAM": "Death Adder",
+    "GNAM": "Death Adder",
+    "COST": "99.99",
+    "MSRP": "59.99",
+    "QOH": "24",
+    "QOBO": "1",
+    "DES": "",
+    "BRAND": "Razer"
+  },
+  {
+    "NAM": "Blackwidow",
+    "GNAM": "Blackwidow",
+    "COST": "229.99",
+    "MSRP": "189.99",
+    "QOH": "13",
+    "QOBO": "6",
+    "DES": "",
+    "BRAND": "Razer"
+  },
+  {
+    "NAM": "Kraken",
+    "GNAM": "Kraken",
+    "COST": "119.99",
+    "MSRP": "99.99",
+    "QOH": "29",
+    "QOBO": "0",
+    "DES": "",
+    "BRAND": "Razer"
+  },
+  
+  {
+    "NAM": "G604",
+    "GNAM": "G604",
+    "COST": "104.99",
+    "MSRP": "99.99",
+    "QOH": "21",
+    "QOBO": "8",
+    "DES": "",
+    "BRAND": "Logitech"
+  },
+  {
+    "NAM": "Pro",
+    "GNAM": "Pro",
+    "COST": "204.99",
+    "MSRP": "199.99",
+    "QOH": "2",
+    "QOBO": "12",
+    "DES": "",
+    "BRAND": "Logitech"
+  },
+  {
+    "NAM": "Ergo",
+    "GNAM": "Ergo",
+    "COST": "109.99",
+    "MSRP": "89.99",
+    "QOH": "15",
+    "QOBO": "15",
+    "DES": "",
+    "BRAND": "Logitech"
+  },
+  {
+    "NAM": "Craft",
+    "GNAM": "Craft",
+    "COST": "149.99",
+    "MSRP": "89.99",
+    "QOH": "33",
+    "QOBO": "0",
+    "DES": "",
+    "BRAND": "Logitech"
+  },
+  {
+    "NAM": "G430",
+    "GNAM": "G430",
+    "COST": "59.99",
+    "MSRP": "39.99",
+    "QOH": "29",
+    "QOBO": "10",
+    "DES": "",
+    "BRAND": "Logitech"
+  },
+  
+  {
+    "NAM": "Flight",
+    "GNAM": "Flight",
+    "COST": "79.99",
+    "MSRP": "79.99",
+    "QOH": "11",
+    "QOBO": "2",
+    "DES": "",
+    "BRAND": "HyperX"
+  },
+  {
+    "NAM": "Cloud",
+    "GNAM": "Cloud",
+    "COST": "109.99",
+    "MSRP": "99.99",
+    "QOH": "14",
+    "QOBO": "4",
+    "DES": "",
+    "BRAND": "HyperX"
+  },
+  {
+    "NAM": "Pulsefire Red",
+    "GNAM": "Pulsefire Red",
+    "COST": "99.99",
+    "MSRP": "79.99",
+    "QOH": "12",
+    "QOBO": "19",
+    "DES": "",
+    "BRAND": "HyperX"
+  },
+  {
+    "NAM": "Alloy FPS Pro",
+    "GNAM": "Alloy FPS Pro",
+    "COST": "129.99",
+    "MSRP": "109.99",
+    "QOH": "21",
+    "QOBO": "3",
+    "DES": "",
+    "BRAND": "HyperX"
+  },
+  {
+    "NAM": "Stinger",
+    "GNAM": "Stinger",
+    "COST": "39.99",
+    "MSRP": "19.99",
+    "QOH": "4",
+    "QOBO": "24",
+    "DES": "",
+    "BRAND": "HyperX"
+  }
+]
