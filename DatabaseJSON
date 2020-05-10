@@ -2,7 +2,7 @@
 {
     "ID": "3333333",
     "NAM": "Naga",
-    "GNAM": "Naga",
+    "GNAM": "Naga.jpg",
     "COST": "49.99",
     "MSRP": "39.99",
     "QOH": "19",
@@ -13,7 +13,7 @@
   {
     "ID": "3331209",
     "NAM": "Viper",
-    "GNAM": "Viper",
+    "GNAM": "Viper.jpg",
     "COST": "59.99",
     "MSRP": "44.99",
     "QOH": "42",
@@ -24,7 +24,7 @@
   {
      "ID": "3332091",
     "NAM": "Death Adder",
-    "GNAM": "Death Adder",
+    "GNAM": "DeathAdder.jpg",
     "COST": "99.99",
     "MSRP": "59.99",
     "QOH": "24",
@@ -35,7 +35,7 @@
   {
     "ID": "3338564",
     "NAM": "Blackwidow",
-    "GNAM": "Blackwidow",
+    "GNAM": "Blackwidow.jpg",
     "COST": "229.99",
     "MSRP": "189.99",
     "QOH": "13",
@@ -46,7 +46,7 @@
   {
     "ID": "3330987",
     "NAM": "Kraken",
-    "GNAM": "Kraken",
+    "GNAM": "Kraken.jpg",
     "COST": "119.99",
     "MSRP": "99.99",
     "QOH": "29",
@@ -58,7 +58,7 @@
   {
     "ID": "2220999",
     "NAM": "G604",
-    "GNAM": "G604",
+    "GNAM": "G604.jpg",
     "COST": "104.99",
     "MSRP": "99.99",
     "QOH": "21",
@@ -69,7 +69,7 @@
   {
     "ID": "2220054",
     "NAM": "Pro",
-    "GNAM": "Pro",
+    "GNAM": "Pro.jpg",
     "COST": "204.99",
     "MSRP": "199.99",
     "QOH": "2",
@@ -80,7 +80,7 @@
   {
     "ID": "2228476",
     "NAM": "Ergo",
-    "GNAM": "Ergo",
+    "GNAM": "Ergo.jpg",
     "COST": "109.99",
     "MSRP": "89.99",
     "QOH": "15",
@@ -91,7 +91,7 @@
   {
     "ID": "2221894",
     "NAM": "Craft",
-    "GNAM": "Craft",
+    "GNAM": "Craft.jpg",
     "COST": "149.99",
     "MSRP": "89.99",
     "QOH": "33",
@@ -102,7 +102,7 @@
   {
     "ID": "2220909",
     "NAM": "G430",
-    "GNAM": "G430",
+    "GNAM": "G430.jpg",
     "COST": "59.99",
     "MSRP": "39.99",
     "QOH": "29",
@@ -114,7 +114,7 @@
   {
     "ID": "1110990",
     "NAM": "Flight",
-    "GNAM": "Flight",
+    "GNAM": "Flight.jpg",
     "COST": "79.99",
     "MSRP": "79.99",
     "QOH": "11",
@@ -125,7 +125,7 @@
   {
     "ID": "1113664",
     "NAM": "Cloud",
-    "GNAM": "Cloud",
+    "GNAM": "Cloud.jpg",
     "COST": "109.99",
     "MSRP": "99.99",
     "QOH": "14",
@@ -136,7 +136,7 @@
   {
     "ID": "1119800",
     "NAM": "Pulsefire Red",
-    "GNAM": "Pulsefire Red",
+    "GNAM": "PulsefireRed.jpg",
     "COST": "99.99",
     "MSRP": "79.99",
     "QOH": "12",
@@ -147,7 +147,7 @@
   {
     "ID": "1114266",
     "NAM": "Alloy FPS Pro",
-    "GNAM": "Alloy FPS Pro",
+    "GNAM": "AlloyFPSPro.jpg",
     "COST": "129.99",
     "MSRP": "109.99",
     "QOH": "21",
@@ -158,7 +158,7 @@
   {
     "ID": "1112345",
     "NAM": "Stinger",
-    "GNAM": "Stinger",
+    "GNAM": "Stinger.jpg",
     "COST": "39.99",
     "MSRP": "19.99",
     "QOH": "4",
