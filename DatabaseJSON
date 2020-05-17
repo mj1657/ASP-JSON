@@ -1,6 +1,6 @@
 [
 {
-    "ID": "3333333",
+    "ID": "33333",
     "NAM": "Naga",
     "GNAM": "Naga.jpg",
     "COST": "49.99",
@@ -11,7 +11,7 @@
     "BRAND": "Razer"
   },
   {
-    "ID": "3331209",
+    "ID": "33309",
     "NAM": "Viper",
     "GNAM": "Viper.png",
     "COST": "59.99",
@@ -22,7 +22,7 @@
     "BRAND": "Razer"
   },
   {
-     "ID": "3332091",
+     "ID": "33320",
     "NAM": "Death Adder",
     "GNAM": "DeathAdder.jpg",
     "COST": "99.99",
@@ -33,7 +33,7 @@
     "BRAND": "Razer"
   },
   {
-    "ID": "3338564",
+    "ID": "33384",
     "NAM": "Blackwidow",
     "GNAM": "Blackwidow.jpg",
     "COST": "229.99",
@@ -44,7 +44,7 @@
     "BRAND": "Razer"
   },
   {
-    "ID": "3330987",
+    "ID": "33308",
     "NAM": "Kraken",
     "GNAM": "Kraken.jpg",
     "COST": "119.99",
@@ -56,7 +56,7 @@
   },
   
   {
-    "ID": "2220999",
+    "ID": "22299",
     "NAM": "G604",
     "GNAM": "G604.jpg",
     "COST": "104.99",
@@ -67,7 +67,7 @@
     "BRAND": "Logitech"
   },
   {
-    "ID": "2220054",
+    "ID": "22254",
     "NAM": "Pro",
     "GNAM": "Pro.jpg",
     "COST": "204.99",
@@ -78,7 +78,7 @@
     "BRAND": "Logitech"
   },
   {
-    "ID": "2228476",
+    "ID": "22276",
     "NAM": "Ergo",
     "GNAM": "Ergo.jpg",
     "COST": "109.99",
@@ -89,7 +89,7 @@
     "BRAND": "Logitech"
   },
   {
-    "ID": "2221894",
+    "ID": "22294",
     "NAM": "Craft",
     "GNAM": "Craft.jpg",
     "COST": "149.99",
@@ -100,7 +100,7 @@
     "BRAND": "Logitech"
   },
   {
-    "ID": "2220909",
+    "ID": "22209",
     "NAM": "G430",
     "GNAM": "G430.jpg",
     "COST": "59.99",
@@ -112,7 +112,7 @@
   },
   
   {
-    "ID": "1110990",
+    "ID": "11190",
     "NAM": "Flight",
     "GNAM": "Flight.jpg",
     "COST": "79.99",
@@ -123,7 +123,7 @@
     "BRAND": "HyperX"
   },
   {
-    "ID": "1113664",
+    "ID": "11134",
     "NAM": "Cloud",
     "GNAM": "Cloud.jpg",
     "COST": "109.99",
@@ -134,7 +134,7 @@
     "BRAND": "HyperX"
   },
   {
-    "ID": "1119800",
+    "ID": "11100",
     "NAM": "Pulsefire Red",
     "GNAM": "PulsefireRed.jpg",
     "COST": "99.99",
@@ -145,7 +145,7 @@
     "BRAND": "HyperX"
   },
   {
-    "ID": "1114266",
+    "ID": "11166",
     "NAM": "Alloy FPS Pro",
     "GNAM": "AlloyFPSPro.jpg",
     "COST": "129.99",
@@ -156,7 +156,7 @@
     "BRAND": "HyperX"
   },
   {
-    "ID": "1112345",
+    "ID": "11145",
     "NAM": "Stinger",
     "GNAM": "Stinger.jpg",
     "COST": "39.99",
